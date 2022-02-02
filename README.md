@@ -1,6 +1,6 @@
 - 🙋‍♂️ Hello there, I’m Krishna Rana ( @krisrana ) 
-- 👀 I’m interested in Full stack development.
-- 🌱 I’m currently learning React and Angular.
+- 👀 I’m interested in Web Development and Data Science using Python Library
+- 🌱 I’m currently learning MERN Stack.
 - 📧 rana.krishna@live.com
 <!---
 krisrana/krisrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
